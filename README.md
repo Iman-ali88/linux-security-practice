@@ -3,6 +3,9 @@ This repository contains my hands-on practice in Linux and cybersecurity fundame
 ## Overview
 Completed multiple levels focusing on Linux command-line usage, file handling, and basic security concepts.
 
+## Platform
+- OverTheWire Bandit
+  
 ## Skills Gained
 - Linux command-line proficiency
 - File handling and permissions
