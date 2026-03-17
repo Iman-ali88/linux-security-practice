@@ -31,6 +31,4 @@ Completed multiple levels focusing on Linux command-line usage, file handling, a
 
 - This project demonstrates practical Linux skills essential for cybersecurity and SOC roles.
 
----
 
-📌 This project demonstrates practical Linux skills essential for cybersecurity and SOC roles.
