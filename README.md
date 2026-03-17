@@ -1,6 +1,3 @@
-# linux-security-practice
-Hands-on Linux security practice using Bandit (OverTheWire), focusing on command-line skills, system navigation, and cybersecurity fundamentals.
-
 # Linux Security Practice – Bandit (OverTheWire)
 This repository contains my hands-on practice in Linux and cybersecurity fundamentals using the Bandit wargame from OverTheWire.
 ## Overview
